@@ -1,7 +1,7 @@
-# ==========================================
+# ==============================================
 # Module 1: Python Basics
-# Topic: Mini Project - Student Report Card
-# ==========================================
+# Topic: Mini Project - Student Grade Calculator
+# ==============================================
 
 name = input("Enter your name: ")
 
