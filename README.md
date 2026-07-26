@@ -17,15 +17,21 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 
 ### Python Basics
 
-* Variables
-* Data Types
-* Input & Output
-* Operators
-* Conditional Statements (`if`, `elif`, `else`)
-* `for` Loops
-* `while` Loops
-* Functions
-
+- Variables
+- Data Types
+- Input & Output
+- Type Casting
+- Operators
+- Conditional Statements (`if`, `elif`, `else`)
+- `for` Loops
+- `while` Loops
+- Functions
+- Common Errors & Debugging
+- Strings
+  - Indexing
+  - Slicing
+  - String Methods
+    
 ### Coming Soon
 
 * Data Structures
