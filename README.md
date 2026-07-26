@@ -64,7 +64,7 @@ python-data-analyst-roadmap/
 │   ├── 18_functions.py
 │   ├── 19_parameters_arguments.py
 │   ├── 20_return.py
-│   └── notes.md
+│   └── module1_revision.py
 │
 ├── Module-02-Data-Structures/
 │
