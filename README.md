@@ -139,7 +139,8 @@ python-data-analyst-roadmap/
 ├── Module-06-Visualization/
 │
 ├── Module-07-Mini-Projects/
-│   └── 1. student_grade_calculator.py
+│   ├── 01_student_grade_calculator.py        ✅ Module 1
+│   ├── 02_student_record_management.py       ✅ Module 2
 │
 └── Module-08-Interview-Questions/
 ```
