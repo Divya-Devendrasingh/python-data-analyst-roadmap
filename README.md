@@ -139,7 +139,7 @@ python-data-analyst-roadmap/
 ├── Module-06-Visualization/
 │
 ├── Module-07-Mini-Projects/
-│   └── student_grade_calculator.py
+│   └── 1. student_grade_calculator.py
 │
 └── Module-08-Interview-Questions/
 ```
