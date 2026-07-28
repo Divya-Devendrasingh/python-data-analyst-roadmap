@@ -5,7 +5,7 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 ## 📚 Learning Roadmap
 
 * ✅ Module 1: Python Basics
-* ⏳ Module 2: Data Structures
+* ✅ Module 2: Data Structures
 * ⏳ Module 3: NumPy
 * ⏳ Module 4: Pandas
 * ⏳ Module 5: Data Cleaning
@@ -15,7 +15,7 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 
 ## 🚀 Skills Covered
 
-### Python Basics
+### Module 1: Python Basics
 
 - Variables
 - Data Types
@@ -31,16 +31,67 @@ This repository documents my journey of learning **Python for Data Analytics**. 
   - Indexing
   - Slicing
   - String Methods
+
+### Module 2: Data Structures
+
+#### Lists
+- Creating Lists
+- Indexing
+- Negative Indexing
+- Slicing
+- Updating Elements
+- `append()`
+- `insert()`
+- `remove()`
+- `pop()`
+- `sort()`
+- `reverse()`
+- `len()`
+- Membership Operators (`in`, `not in`)
+
+#### Tuples
+- Creating Tuples
+- Indexing
+- Negative Indexing
+- Immutability
+- Single Element Tuples
+- `count()`
+- `index()`
+- `len()`
+
+#### Sets
+- Creating Sets
+- Unique Elements
+- `add()`
+- `remove()`
+- `discard()`
+- `pop()`
+- `clear()`
+- `len()`
+- Membership Operators
+
+#### Dictionaries
+- Creating Dictionaries
+- Accessing Values
+- Adding & Updating Key-Value Pairs
+- `keys()`
+- `values()`
+- `items()`
+- `get()`
+- `update()`
+- `pop()`
+- `clear()`
+- `len()`
+- Membership Operators  
     
 ### Coming Soon
 
-* Data Structures
-* NumPy
-* Pandas
-* Data Cleaning
-* Data Visualization
-* Mini Projects
-* Interview Questions
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Visualization
+- Mini Projects
+- Interview Questions
 
 ## 📂 Repository Structure
 
@@ -73,6 +124,11 @@ python-data-analyst-roadmap/
 │   └── module1_revision.py
 │
 ├── Module-02-Data-Structures/
+│   ├── 01_lists.py
+│   ├── 02_tuples.py
+│   ├── 03_sets.py
+│   ├── 04_dictionaries.py
+│   └── module2_revision.py
 │
 ├── Module-03-NumPy/
 │
@@ -88,13 +144,26 @@ python-data-analyst-roadmap/
 └── Module-08-Interview-Questions/
 ```
 
+## 🛠️ Tools & Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+
 ## 🎯 Goal
 
-The goal of this repository is to build a strong Python foundation for Data Analytics through consistent practice, clean code, and hands-on exercises. Each module includes examples, coding practice, and interview-oriented concepts.
+The goal of this repository is to build a strong Python foundation for Data Analytics through consistent practice, clean code, and hands-on exercises. Each module includes examples, coding practice, debugging and interview-oriented concepts.
 
 ## 📌 Progress
 
 * ✅ Module 1 Completed
-* 🚧 Module 2 Starting Soon
+* ✅ Module 2 Completed
+* 🚧 Module 3 Starting Soon
 
 This repository is continuously updated as I progress through my Data Analytics learning journey.
