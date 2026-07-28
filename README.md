@@ -82,11 +82,45 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 - `pop()`
 - `clear()`
 - `len()`
-- Membership Operators  
+- Membership Operators
+
+## 🚧 Module 3: NumPy (Completed So Far)
+
+- Installing NumPy
+- Importing NumPy
+- Creating Arrays
+- Array Attributes
+  - ndim
+  - shape
+  - size
+  - dtype
+- Indexing
+- Negative Indexing
+- Slicing
+- Element-wise Operations
+- Scalar Operations
+- Power Operator (**)
+- Modulus Operator (%)
+- Broadcasting
+- Aggregation Functions
+  - sum()
+  - mean()
+  - max()
+  - min()
+
+**Coming Next**
+
+- Axis
+- Reshape
+- Flatten & Ravel
+- Boolean Indexing
+- Filtering
+- Random Module
+- Stacking & Splitting
+- Useful NumPy Functions
     
 ### Coming Soon
 
-- NumPy
 - Pandas
 - Data Cleaning
 - Data Visualization
@@ -131,6 +165,13 @@ python-data-analyst-roadmap/
 │   └── module2_revision.py
 │
 ├── Module-03-NumPy/
+│   ├── 01_install_import.py
+│   ├── 02_create_arrays.py
+│   ├── 03_array_attributes.py
+│   ├── 04_indexing_slicing.py
+│   ├── 05_array_operations.py
+│   ├── 06_broadcasting.py
+│   ├── 07_aggregation_functions.py
 │
 ├── Module-04-Pandas/
 │
