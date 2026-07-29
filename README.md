@@ -173,6 +173,8 @@ python-data-analyst-roadmap/
 │   ├── 06_broadcasting.py
 │   ├── 07_aggregation_functions.py
 │   ├── 08_axis.py
+│   ├── 09_reshape.py
+│   ├── 10_flatten_ravel.py
 │
 ├── Module-04-Pandas/
 │
