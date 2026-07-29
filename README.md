@@ -107,10 +107,10 @@ This repository documents my journey of learning **Python for Data Analytics**. 
   - mean()
   - max()
   - min()
+- Axis
 
 **Coming Next**
 
-- Axis
 - Reshape
 - Flatten & Ravel
 - Boolean Indexing
@@ -172,6 +172,7 @@ python-data-analyst-roadmap/
 │   ├── 05_array_operations.py
 │   ├── 06_broadcasting.py
 │   ├── 07_aggregation_functions.py
+│   ├── 08_axis.py
 │
 ├── Module-04-Pandas/
 │
