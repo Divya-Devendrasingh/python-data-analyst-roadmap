@@ -6,7 +6,7 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 
 * ✅ Module 1: Python Basics
 * ✅ Module 2: Data Structures
-* ⏳ Module 3: NumPy
+* ✅ Module 3: NumPy
 * ⏳ Module 4: Pandas
 * ⏳ Module 5: Data Cleaning
 * ⏳ Module 6: Data Visualization
