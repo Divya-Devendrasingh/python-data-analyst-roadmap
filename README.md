@@ -164,7 +164,7 @@ python-data-analyst-roadmap/
 │   ├── 04_dictionaries.py
 │   └── module2_revision.py
 │
-├── Module-03-NumPy/
+├── Module_3_NumPy/
 │   ├── 01_install_import.py
 │   ├── 02_create_arrays.py
 │   ├── 03_array_attributes.py
@@ -175,6 +175,11 @@ python-data-analyst-roadmap/
 │   ├── 08_axis.py
 │   ├── 09_reshape.py
 │   ├── 10_flatten_ravel.py
+│   ├── 11_boolean_indexing.py
+│   ├── 12_filtering.py
+│   ├── 13_random_module.py
+│   ├── 14_stacking_splitting.py
+│   └── 15_useful_functions.py
 │
 ├── Module-04-Pandas/
 │
