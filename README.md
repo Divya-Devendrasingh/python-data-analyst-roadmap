@@ -15,7 +15,7 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 
 ## 🚀 Skills Covered
 
-### Module 1: Python Basics
+### ✅ Module 1: Python Basics
 
 - Variables
 - Data Types
@@ -32,7 +32,9 @@ This repository documents my journey of learning **Python for Data Analytics**. 
   - Slicing
   - String Methods
 
-### Module 2: Data Structures
+---
+
+### ✅ Module 2: Data Structures
 
 #### Lists
 - Creating Lists
@@ -84,33 +86,31 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 - `len()`
 - Membership Operators
 
-## 🚧 Module 3: NumPy (Completed So Far)
+---
 
-- Installing NumPy
-- Importing NumPy
+### ✅ Module 3: NumPy
+
+- Installing & Importing NumPy
 - Creating Arrays
 - Array Attributes
-  - ndim
-  - shape
-  - size
-  - dtype
+  - `ndim`
+  - `shape`
+  - `size`
+  - `dtype`
 - Indexing
 - Negative Indexing
 - Slicing
 - Element-wise Operations
 - Scalar Operations
-- Power Operator (**)
-- Modulus Operator (%)
+- Power Operator (`**`)
+- Modulus Operator (`%`)
 - Broadcasting
 - Aggregation Functions
-  - sum()
-  - mean()
-  - max()
-  - min()
+  - `sum()`
+  - `mean()`
+  - `max()`
+  - `min()`
 - Axis
-
-**Coming Next**
-
 - Reshape
 - Flatten & Ravel
 - Boolean Indexing
@@ -118,14 +118,46 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 - Random Module
 - Stacking & Splitting
 - Useful NumPy Functions
-    
-### Coming Soon
+  - `arange()`
+  - `linspace()`
+  - `zeros()`
+  - `ones()`
+  - `eye()`
+  - `unique()`
+  - `sort()`
+  - `where()`
+  - `clip()`
 
-- Pandas
+---
+
+## 🚧 Coming Soon
+
+### Module 4: Pandas
+- Series
+- DataFrames
 - Data Cleaning
-- Data Visualization
-- Mini Projects
-- Interview Questions
+- Data Transformation
+- GroupBy
+- Merge & Join
+- Missing Values
+
+### Module 5: Data Visualization
+- Matplotlib
+- Seaborn
+- Charts
+- Dashboards
+
+### Module 6: Data Analysis
+- Exploratory Data Analysis (EDA)
+- Business Statistics
+- KPI Analysis
+- Reporting
+
+### Module 7: Mini Projects
+- Student Grade Calculator
+- Student Record Management
+- NumPy Sales Analysis Project
+- More Real-World Projects
 
 ## 📂 Repository Structure
 
@@ -179,7 +211,8 @@ python-data-analyst-roadmap/
 │   ├── 12_filtering.py
 │   ├── 13_random_module.py
 │   ├── 14_stacking_splitting.py
-│   └── 15_useful_functions.py
+│   ├── 15_useful_functions.py
+│   └── module3_revision.py
 │
 ├── Module-04-Pandas/
 │
@@ -190,6 +223,7 @@ python-data-analyst-roadmap/
 ├── Module-07-Mini-Projects/
 │   ├── 01_student_grade_calculator.py        ✅ Module 1
 │   ├── 02_student_record_management.py       ✅ Module 2
+│   ├── 03_numpy_sales_analysis_project.py    ✅ Module 3
 │
 └── Module-08-Interview-Questions/
 ```
@@ -214,6 +248,7 @@ The goal of this repository is to build a strong Python foundation for Data Anal
 
 * ✅ Module 1 Completed
 * ✅ Module 2 Completed
-* 🚧 Module 3 Starting Soon
+* ✅ Module 3 Completed
+* 🚧 Module 4 Starting Soon
 
 This repository is continuously updated as I progress through my Data Analytics learning journey.
