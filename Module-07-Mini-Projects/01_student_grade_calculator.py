@@ -1,7 +1,25 @@
-# ==============================================
-# Module 1: Python Basics
-# Topic: Mini Project - Student Grade Calculator
-# ==============================================
+"""
+=========================================
+Mini Project 1 - Student Grade Calculator
+Python Data Analyst Roadmap
+=========================================
+
+Project:
+Calculate student grades based on marks and display the corresponding grade.
+
+Concepts Used:
+--------------
+1. Variables
+2. User Input
+3. Type Casting
+4. Arithmetic Operators
+5. Conditional Statements (if-elif-else)
+6. Functions
+7. Loops
+8. Grade Calculation Logic
+
+Author: Divya Devendrasingh
+"""
 
 name = input("Enter your name: ")
 
@@ -71,3 +89,5 @@ print(f"Grade       : {grade}")
 print(f"Result      : {result}")
 
 print("==========================")
+
+print("\nProject Completed Successfully!")

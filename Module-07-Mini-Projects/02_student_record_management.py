@@ -1,8 +1,25 @@
-# ===============================================
-# Module 2: Data Structures
-# Topic: Mini Project - Student Record Management
-# ===============================================
+"""
+=========================================
+Mini Project 2 - Student Record Management
+Python Data Analyst Roadmap
+=========================================
 
+Project:
+Manage student records by adding, viewing, searching, updating, and deleting student information using Python data structures.
+
+Concepts Used:
+--------------
+1. Lists
+2. Dictionaries
+3. CRUD Operations
+4. Loops
+5. Conditional Statements
+6. Functions
+7. Searching Records
+8. Menu-Driven Program
+
+Author: Divya Devendrasingh
+"""
 
 # Student Details (Dictionary)
 student = {
@@ -52,3 +69,5 @@ print(student.items())
 
 print("\nFinal Student Record:")
 print(student)
+
+print("\nProject Completed Successfully!")
