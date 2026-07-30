@@ -228,6 +228,14 @@ python-data-analyst-roadmap/
 └── Module-08-Interview-Questions/
 ```
 
+## ⭐ Repository Highlights
+
+- 📘 Structured learning roadmap from Python basics to data analysis.
+- 💻 Hands-on coding exercises for every concept.
+- 📊 Practical NumPy implementations.
+- 🚀 Real-world mini projects demonstrating applied skills.
+- 📈 Regularly updated as I progress through my Data Analytics journey.
+
 ## 🛠️ Tools & Technologies
 
 - Python
