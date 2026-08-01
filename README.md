@@ -130,34 +130,74 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 
 ---
 
-## 🚧 Coming Soon
+### 🚧 Module 4: Pandas (Completed So Far)
 
-### Module 4: Pandas
+- Introduction to Pandas
+- Installing & Importing Pandas
+- Checking Pandas Version
+- Why Pandas?
 - Series
+- Creating a Series
+- Default Index
+- Index & Values
+- Accessing Elements
+- Slicing
+- `iloc`
+- Series Attributes
+  - `index`
+  - `values`
+  - `dtype`
+  - `shape`
+  - `size`
+  - `ndim`
+- Custom Index
+- Creating Series from Dictionary
+
+**Coming Next**
+
 - DataFrames
-- Data Cleaning
-- Data Transformation
+- Read & Write CSV
+- Selecting Rows & Columns
+- Filtering
+- Sorting
+- Handling Missing Values
 - GroupBy
 - Merge & Join
-- Missing Values
+- Concatenate
+- Apply Functions
+- Pivot Tables
+- Useful Functions
+- Case Study
 
-### Module 5: Data Visualization
+---
+
+## 🚧 Coming Soon
+
+### Module 5: Data Cleaning
+- Handling Missing Data
+- Removing Duplicates
+- Data Type Conversion
+- String Operations
+- Date & Time Handling
+- Outlier Detection
+
+### Module 6: Data Visualization
 - Matplotlib
 - Seaborn
-- Charts
+- Line Charts
+- Bar Charts
+- Pie Charts
+- Histograms
+- Scatter Plots
 - Dashboards
-
-### Module 6: Data Analysis
-- Exploratory Data Analysis (EDA)
-- Business Statistics
-- KPI Analysis
-- Reporting
 
 ### Module 7: Mini Projects
 - Student Grade Calculator
 - Student Record Management
 - NumPy Sales Analysis Project
+- Pandas Sales Analysis Project
 - More Real-World Projects
+
 
 ## 📂 Repository Structure
 
@@ -215,6 +255,9 @@ python-data-analyst-roadmap/
 │   └── module3_revision.py
 │
 ├── Module-04-Pandas/
+│   ├── 01_pandas_introduction.py
+│   ├── 02_series.py
+│
 │
 ├── Module-05-Data-Cleaning/
 │
@@ -232,10 +275,10 @@ python-data-analyst-roadmap/
 
 - 📘 Structured learning roadmap from Python basics to data analysis.
 - 💻 Hands-on coding exercises for every concept.
-- 📊 Practical NumPy implementations.
+- 📊 Practical NumPy and Pandas implementations.
 - 🚀 Real-world mini projects demonstrating applied skills.
 - 📈 Regularly updated as I progress through my Data Analytics journey.
-
+  
 ## 🛠️ Tools & Technologies
 
 - Python
