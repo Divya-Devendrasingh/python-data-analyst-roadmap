@@ -257,7 +257,8 @@ python-data-analyst-roadmap/
 ├── Module-04-Pandas/
 │   ├── 01_pandas_introduction.py
 │   ├── 02_series.py
-│
+│   ├── 03_dataframe.py
+│   ├── 04_read_write_csv.py
 │
 ├── Module-05-Data-Cleaning/
 │
