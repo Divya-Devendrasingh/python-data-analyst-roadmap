@@ -7,7 +7,7 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 * ✅ Module 1: Python Basics
 * ✅ Module 2: Data Structures
 * ✅ Module 3: NumPy
-* ⏳ Module 4: Pandas
+* 🚧 Module 4: Pandas (In Progress)
 * ⏳ Module 5: Data Cleaning
 * ⏳ Module 6: Data Visualization
 * ⏳ Module 7: Mini Projects
@@ -130,19 +130,22 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 
 ---
 
-### 🚧 Module 4: Pandas (Completed So Far)
+### 🚧 Module 4: Pandas (In Progress)
 
+#### Basics
 - Introduction to Pandas
 - Installing & Importing Pandas
 - Checking Pandas Version
 - Why Pandas?
-- Series
-- Creating a Series
+
+#### Series
+- Creating Series
 - Default Index
-- Index & Values
+- Custom Index
 - Accessing Elements
-- Slicing
+- Indexing & Slicing
 - `iloc`
+- Creating Series from Dictionary
 - Series Attributes
   - `index`
   - `values`
@@ -150,15 +153,53 @@ This repository documents my journey of learning **Python for Data Analytics**. 
   - `shape`
   - `size`
   - `ndim`
-- Custom Index
-- Creating Series from Dictionary
 
-**Coming Next**
+#### DataFrame
+- Creating DataFrames
+- Creating DataFrame from Dictionary
+- DataFrame Attributes
+  - `columns`
+  - `index`
+  - `shape`
+  - `size`
+  - `ndim`
+  - `dtypes`
+  - `info()`
+  - `describe()`
 
-- DataFrames
-- Read & Write CSV
-- Selecting Rows & Columns
-- Filtering
+#### Reading CSV Files
+- `pd.read_csv()`
+- Reading CSV Files
+- `head()`
+- `tail()`
+- `info()`
+- `describe()`
+
+#### Selecting Data
+- Selecting Single Column
+- Selecting Multiple Columns
+- `df.columns`
+- `df.index`
+- `df.shape`
+
+#### Filtering
+- Comparison Operators
+  - `>`
+  - `<`
+  - `==`
+  - `!=`
+  - `>=`
+  - `<=`
+- Multiple Conditions
+  - `&` (AND)
+  - `|` (OR)
+- `isin()`
+- `between()`
+
+---
+
+### Coming Next
+
 - Sorting
 - Handling Missing Values
 - GroupBy
@@ -259,6 +300,8 @@ python-data-analyst-roadmap/
 │   ├── 02_series.py
 │   ├── 03_dataframe.py
 │   ├── 04_read_write_csv.py
+│   ├── 05_select_rows_columns.py
+│   ├── 06_filtering.py
 │
 ├── Module-05-Data-Cleaning/
 │
@@ -276,7 +319,7 @@ python-data-analyst-roadmap/
 
 - 📘 Structured learning roadmap from Python basics to data analysis.
 - 💻 Hands-on coding exercises for every concept.
-- 📊 Practical NumPy and Pandas implementations.
+- 📊 Practical NumPy and Pandas implementations using real-world datasets.
 - 🚀 Real-world mini projects demonstrating applied skills.
 - 📈 Regularly updated as I progress through my Data Analytics journey.
   
@@ -301,6 +344,8 @@ The goal of this repository is to build a strong Python foundation for Data Anal
 * ✅ Module 1 Completed
 * ✅ Module 2 Completed
 * ✅ Module 3 Completed
-* 🚧 Module 4 Starting Soon
+* 🚧 Module 4 In Progress
 
-This repository is continuously updated as I progress through my Data Analytics learning journey.
+## 👋 About This Repository
+
+This repository documents my structured journey toward becoming a Data Analyst. Each module includes theory, coding exercises and hands-on practice using Python libraries such as NumPy and Pandas. The repository is continuously updated as I progress through the roadmap.
