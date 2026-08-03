@@ -196,6 +196,15 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 - `isin()`
 - `between()`
 
+#### Sorting
+- `sort_values()`
+- Ascending Sorting
+- Descending Sorting
+- Sorting by Multiple Columns
+- Different Sorting Order
+- `sort_index()`
+- `inplace=True`
+
 ---
 
 ### Coming Next
@@ -302,6 +311,7 @@ python-data-analyst-roadmap/
 │   ├── 04_read_write_csv.py
 │   ├── 05_select_rows_columns.py
 │   ├── 06_filtering.py
+│   ├── 07_sorting.py
 │
 ├── Module-05-Data-Cleaning/
 │
@@ -320,6 +330,7 @@ python-data-analyst-roadmap/
 - 📘 Structured learning roadmap from Python basics to data analysis.
 - 💻 Hands-on coding exercises for every concept.
 - 📊 Practical NumPy and Pandas implementations using real-world datasets.
+- 🔍 Data filtering and sorting using real-world datasets.
 - 🚀 Real-world mini projects demonstrating applied skills.
 - 📈 Regularly updated as I progress through my Data Analytics journey.
   
