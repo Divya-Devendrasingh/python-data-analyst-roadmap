@@ -205,13 +205,31 @@ This repository documents my journey of learning **Python for Data Analytics**. 
 - `sort_index()`
 - `inplace=True`
 
+#### Handling Missing Values
+- Missing Values
+- `isnull()`
+- `notnull()`
+- `dropna()`
+- `fillna()`
+- Filling with Mean
+- Filling with Median
+- Filling with Mode
+- `inplace=True`
+
+#### GroupBy
+- `groupby()`
+- `sum()`
+- `mean()`
+- `count()`
+- `min()`
+- `max()`
+- `agg()`
+- Grouping by Multiple Columns
+
 ---
 
 ### Coming Next
 
-- Sorting
-- Handling Missing Values
-- GroupBy
 - Merge & Join
 - Concatenate
 - Apply Functions
@@ -312,6 +330,8 @@ python-data-analyst-roadmap/
 │   ├── 05_select_rows_columns.py
 │   ├── 06_filtering.py
 │   ├── 07_sorting.py
+│   ├── 08_handling_missing_values.py
+│   ├── 09_groupby.py
 │
 ├── Module-05-Data-Cleaning/
 │
@@ -330,7 +350,7 @@ python-data-analyst-roadmap/
 - 📘 Structured learning roadmap from Python basics to data analysis.
 - 💻 Hands-on coding exercises for every concept.
 - 📊 Practical NumPy and Pandas implementations using real-world datasets.
-- 🔍 Data filtering and sorting using real-world datasets.
+- 🔍 Data filtering, sorting, missing value handling, and grouping using real-world datasets.
 - 🚀 Real-world mini projects demonstrating applied skills.
 - 📈 Regularly updated as I progress through my Data Analytics journey.
   
